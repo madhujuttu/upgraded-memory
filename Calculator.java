@@ -5,7 +5,7 @@ public class Calculator {
         float n1,n2;
         System.out.print("Enter number 1: ");
         n1=input.nextFloat();
-        System.out.println("Enter number 2: ");
+        System.out.print("Enter number 2: ");
         n2=input.nextFloat();
         int choice;
         System.out.println("1.Addition,2.Substraction,3.Multiplication,4.Division.");
