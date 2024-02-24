@@ -32,6 +32,6 @@ void displayPrivate(Student s){
 }
 
 int main() {
-    Student student("Chalumuri. kamal ",530,8.71,"MAHARAJ VIJAYARAM COLLEGE OF ENGINEERING",33);
+    Student student("Juttu madhu ",563,8.71,"MAHARAJ VIJAYARAM COLLEGE OF ENGINEERING",33);
     displayPrivate(student);
 }
