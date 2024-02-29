@@ -15,7 +15,7 @@ class Box{
 
     friend void displayBoxDimensions(Box);
     inline void displayMessage() {
-        cout<<"hello welcome to my world in inline method"<<endl;
+        cout<<"WELCOME TO inline method"<<endl;
     }
 };
 
