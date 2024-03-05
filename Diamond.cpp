@@ -26,10 +26,10 @@ public:
     }
 };
 int main() {
-    FlyingMammal bat;
-    bat.greet(); 
- bat.identify(); 
-    bat.run();
-    bat.fly();
+    FlyingMammal parrot;
+    parrot.greet(); 
+ parrot.identify(); 
+    parrot.run();
+    parrot.fly();
     return 0;
 }
