@@ -5,7 +5,7 @@ class vehicle{
     int year;
     public:
     void setp(){
-        cout<<"enter the brand name : "<<endl;
+        cout<<"enter the brand name of bus : "<<endl;
         cin>>brand;
         cout<<"manufacturing year : "<<endl;
         cin>>year;
