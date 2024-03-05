@@ -16,7 +16,7 @@ class vehicle{
         cout<<"year : "<<year<<endl;
     }
 };
-class bike: public vehicle{
+class bus: public vehicle{
     int price;
     public:
     void setc(){
@@ -30,7 +30,7 @@ class bike: public vehicle{
     }
 };
 int main(){
-    bike b1;
+    bus b1;
     b1.setc();
     b1.display(); 
 }
